@@ -48,7 +48,7 @@ while True:
      
     num_of_pos, num_of_neg = num_of_words(pos_words, neg_words, reviews)
 
-    print(num_of_pos) # comes back with 0. Why?
+    print(num_of_pos)
     print(num_of_neg)
     break
 
